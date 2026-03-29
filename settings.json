@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "a5k66.aternos.me",
-    "port": 54375,
+    "ip": "",
+    "port": ,
     "version": "1.21.11",
     "try-creative": false
   },
